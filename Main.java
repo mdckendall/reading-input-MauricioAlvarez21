@@ -5,7 +5,7 @@ class Main {
     System.out.println("Enter a word:");
 
     String word =  Response.nextLine();
-    System.out.println(word);
+    System.out.println(word.length());
       
     //Your code will return the length of the entered String
   }
